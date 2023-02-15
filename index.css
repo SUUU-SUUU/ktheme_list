@@ -8,9 +8,7 @@ h1, h2, h3, h4, h5, h6, figure, p {margin: 0;}
 h2 {font-size: 28px;
     font-family: 'Coiny';
     color: #1A1A1A;}
-h3 {
-    font-size: 15px;
-}
+h3 {font-size: 16px;}
 p {
     font-size: 13px;
     font-family: 'Noto Sans KR';
@@ -83,9 +81,9 @@ main > div > ul > li > a > img {
 }
 main > div > ul > li > h3 {
     margin-top: 5%;
-    font-family: 'Coiny';
+    font-family: 'Gaegu';
     color: #1A1A1A;
-    letter-spacing: -0.7px;}
+    letter-spacing: -1.5px;}
 
 
 .list::after {
