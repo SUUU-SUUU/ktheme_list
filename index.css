@@ -52,7 +52,7 @@ header {
 .hd > div:nth-child(1) { float: left;}
 .hd > div:nth-child(2) { float: right;}
 
-.hd01 > img {height: 80px;}
+.hd01 > a > img {height: 80px;}
 .bt01 > a > img {height: 40px; margin-top: 50px; }
 
 
@@ -106,7 +106,6 @@ main > div > ul > li > h3 {
     margin: 0 5%;
 
 }
-
 
 
 
